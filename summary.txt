@@ -1,0 +1,21 @@
+ntroduction
+
+This project is a Database Management System for Waste Collection and Recycling, designed to organize and simplify the process of managing waste pickup requests, recycling centers, and waste collection operations. It creates a centralized platform where citizens, collectors, and administrators can interact efficiently.
+
+Project Purpose
+
+The main goal of the system is to improve waste management by keeping track of users, pickup requests, recycling activities, vehicles, and reports in a structured database. It helps reduce manual work and ensures that information is stored accurately and can be accessed easily.
+
+Key Features
+Registration and management of citizens, collectors, and admins.
+Scheduling and tracking of waste pickup requests.
+Management of vehicles and collector assignments.
+Monitoring of recycling centers, inventory, and waste categories.
+Generation of reports and statistics to help administrators make better decisions.
+Database Design
+
+The project uses a relational database with multiple connected tables, such as Users, Citizens, Collectors, Pickup Requests, Vehicles, Recycle Centers, Inventory, and Reports. These tables are linked through primary and foreign keys to maintain data consistency and avoid duplication.
+
+Conclusion
+
+Overall, this project demonstrates how a well-designed database can support a smart waste management system. By organizing data efficiently and automating key processes, the system helps improve service quality, resource management, and environmental sustainability.
